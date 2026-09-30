@@ -21,4 +21,4 @@ print("Predicted:", prediction)
 
 accuracy = accuracy_score(y_test, prediction)
 
-print("Accuracy:", accuracy)git
+print("Accuracy:", accuracy)
